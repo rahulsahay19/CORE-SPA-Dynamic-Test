@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\dist",
+    "\\dist\\module1",
     "\\src",
     "\\src\\app"
   ],
-  "SelectedNode": "\\dist\\polyfills.bundle.js",
+  "SelectedNode": "\\src\\test.ts",
   "PreviewInSolutionExplorer": false
 }
